@@ -1,0 +1,55 @@
+{
+    "version": [
+        "1",
+        "2",
+        "6"
+    ],
+    "views": [
+        {
+            "viewId": "1038473056",
+            "poseId": "1038473056",
+            "frameId": "11",
+            "intrinsicId": "1052964045",
+            "path": "C:\/Users\/user\/Downloads\/WhatsApp Image 2024-11-27 at 11.27.47 (1).jpeg",
+            "width": "1003",
+            "height": "688",
+            "metadata": {
+                "ImageDescription": "",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        }
+    ],
+    "intrinsics": [
+        {
+            "intrinsicId": "1052964045",
+            "width": "1003",
+            "height": "688",
+            "sensorWidth": "36",
+            "sensorHeight": "24",
+            "serialNumber": "C:\/Users\/user\/Downloads",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "initialFocalLength": "-1",
+            "focalLength": "43.45584412271571",
+            "pixelRatio": "1",
+            "pixelRatioLocked": "true",
+            "principalPoint": [
+                "0",
+                "0"
+            ],
+            "distortionInitializationMode": "none",
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "undistortionOffset": [
+                "0",
+                "0"
+            ],
+            "undistortionParams": "",
+            "locked": "false"
+        }
+    ]
+}

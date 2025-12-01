@@ -1,0 +1,18 @@
+{
+    "status": "SUCCESS",
+    "execMode": "LOCAL",
+    "nodeName": "FeatureExtraction_1",
+    "nodeType": "FeatureExtraction",
+    "packageName": "aliceVision",
+    "packageVersion": null,
+    "graph": "",
+    "commandLine": "aliceVision_featureExtraction  --input \"C:/Users/user/Downloads/Eco/MeshroomCache/CameraInit/3ed2542e920480789834e75aa6f6b04f0effe361/cameraInit.sfm\" --masksFolder \"\" --maskExtension png --maskInvert False --describerTypes dspsift --describerPreset normal --describerQuality normal --contrastFiltering GridSort --gridFiltering True --workingColorSpace sRGB --forceCpuExtraction True --maxThreads 0 --verboseLevel info --output \"C:/Users/user/Downloads/Eco/MeshroomCache/FeatureExtraction/cdc4797f85cd03e7d239d145a0be6fc259675b26\"",
+    "env": null,
+    "startDateTime": "2024-12-05 12:45:34.314719",
+    "endDateTime": "2024-12-05 12:45:37.928099",
+    "elapsedTime": 3.613380193710327,
+    "hostname": "MMC-LAB-PC-One",
+    "sessionUid": "c7867a92-b2f5-11ef-9643-b083fe57e481",
+    "returnCode": 0,
+    "elapsedTimeStr": "0:00:03.613380"
+}
